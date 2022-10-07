@@ -72,13 +72,8 @@ MySQL database connection successfull
 ----------------------------------------
 Masukkan Nomor Tugas : 4
 
-----------------------------------------------------
-  id_buku                    nama_buku kategori_buku  stok_buku
-0    0789  Historical Fact And Fiction       Sejarah          2
-1    1587                   Statistics    Matematika          3
-2    1876        Islam dan Sekulerisme     Pemikiran          3
-3    6346                Rencana Besar         Novel          5
-4    6840                   Sudut Mati         Novel          3
+![image](https://user-images.githubusercontent.com/72845063/194592756-6f0a662b-742d-4dcb-bf6d-33ec4c51879d.png)
+
 
 -----------LIBRARY MANAGEMENT-----------
   1. Pendaftaran User Baru
@@ -93,10 +88,8 @@ Masukkan Nomor Tugas : 4
 ----------------------------------------
 Masukkan Nomor Tugas : 6
 
-----------------------------------------------------
-   id_user user_name id_buku                    nama_buku  tgl_pinjam tgl_pengembalian
-0        2     Ujang    6840                   Sudut Mati  2022-07-23       2022-07-26
-1        5  Muslimah    0789  Historical Fact And Fiction  2022-07-23       2022-07-26
+![image](https://user-images.githubusercontent.com/72845063/194592851-c74d9d0e-a4c5-4ef5-b7b0-8bb9766e8377.png)
+
 
 -----------LIBRARY MANAGEMENT-----------
   1. Pendaftaran User Baru
@@ -111,13 +104,7 @@ Masukkan Nomor Tugas : 6
 ----------------------------------------
 Masukkan Nomor Tugas : 5
 
-----------------------------------------------------
-   id_user user_name   tgl_lahir   pekerjaan         alamat
-0        1      Ical  2008-02-29     Pelajar       Sukabaca
-1        2     Ujang  2004-01-01   Mahasiswa  Desa Ciherang
-2        3      Agus  1998-12-31    Karyawan         Kemang
-3        4       Opa  1990-07-16  Wiraswasta  Pondok Indah
-4        5  Muslimah  1980-06-10        Guru        Menteng
+![image](https://user-images.githubusercontent.com/72845063/194592993-f3956db8-e3d7-46fa-b602-4d922d119b63.png)
 
 -----------LIBRARY MANAGEMENT-----------
   1. Pendaftaran User Baru
@@ -132,18 +119,7 @@ Masukkan Nomor Tugas : 5
 ----------------------------------------
 Masukkan Nomor Tugas : 3
 
-----------------------------------------------------
-Masukkan id peminjam : 5
-Masukkan id buku : 1876
-Masukkan nama peminjam : Muslimah
-Masukkan nama buku : Islam dan Sekulerisme
-Query berhasil dieksekusi
---------------------------
-Data berhasil ditambahkan!
---------------------------
-Query berhasil dieksekusi
---------------------------
-Buku dipinjamkan ke Muslimah
+![image](https://user-images.githubusercontent.com/72845063/194593569-f080c656-0285-44f7-964c-9d080a190156.png)
 
 
 -----------LIBRARY MANAGEMENT-----------
@@ -159,13 +135,7 @@ Buku dipinjamkan ke Muslimah
 ----------------------------------------
 Masukkan Nomor Tugas : 4
 
-----------------------------------------------------
-  id_buku                    nama_buku kategori_buku  stok_buku
-0    0789  Historical Fact And Fiction       Sejarah          2
-1    1587                   Statistics    Matematika          3
-2    1876        Islam dan Sekulerisme     Pemikiran          2
-3    6346                Rencana Besar         Novel          5
-4    6840                   Sudut Mati         Novel          3
+![image](https://user-images.githubusercontent.com/72845063/194593716-5f871807-bda9-461b-a71f-e9fee521ff85.png)
 
 -----------LIBRARY MANAGEMENT-----------
   1. Pendaftaran User Baru
@@ -180,11 +150,22 @@ Masukkan Nomor Tugas : 4
 ----------------------------------------
 Masukkan Nomor Tugas : 6
 
-----------------------------------------------------
-   id_user user_name id_buku                    nama_buku  tgl_pinjam tgl_pengembalian
-0        2     Ujang    6840                   Sudut Mati  2022-07-23       2022-07-26
-1        5  Muslimah    0789  Historical Fact And Fiction  2022-07-23       2022-07-26
-2        5  Muslimah    1876        Islam dan Sekulerisme  2022-07-23       2022-07-26
+![image](https://user-images.githubusercontent.com/72845063/194593822-b94d995a-ebf2-480c-bf82-f903f546afd1.png)
+
+-----------LIBRARY MANAGEMENT-----------
+  1. Pendaftaran User Baru
+  2. Pendaftaran Buku Baru
+  3. Peminjaman
+  4. Tampilkan Daftar Buku
+  5. Tampilkan Daftar User
+  6. Tampilkan Daftar Peminjaman
+  7. Cari Buku
+  8. Pengembalian
+  9. Exit
+----------------------------------------
+Masukkan Nomor Tugas : 7
+
+![image](https://user-images.githubusercontent.com/72845063/194594216-3a381bf2-0df9-4eac-9c01-18dffd600d6f.png)
 
 -----------LIBRARY MANAGEMENT-----------
   1. Pendaftaran User Baru
